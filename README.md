@@ -7,8 +7,6 @@
 </head>
 <body>
     <h1>hi</h1>
-    <button onclick="
-        alert('hi')
-    ">lala</button>
+    <a href="javascript:alert('hi')">lala<a>
 </body>
 </html>
