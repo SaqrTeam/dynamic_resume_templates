@@ -101,8 +101,8 @@
     <li>اختر مسار الملف الذي تريد اخذ القالب فيه</li>
     <li>ثم اكتب الامر الاتي في التيرمنال</li>
 </ol>
-```sh
-clone --branch 1-template https://github.com/SaqrTeam/dynamic_resume_templates.git
+# ```sh
+git clone --branch 1-template https://github.com/SaqrTeam/dynamic_resume_templates.git
 ```
 <br/>
 <br/>
