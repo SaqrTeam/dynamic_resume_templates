@@ -32,7 +32,9 @@
 </div>
 <br/>
 قم بختيار البرانش الخاص بك ثم اتبع خطوات التحميل الخاصة به
+<div align="center">
 <img src="./img/show3.png" style="width:100%">
+</div>
 
 
 
