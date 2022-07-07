@@ -39,7 +39,6 @@
   <p align="center">
     قالب سيرة ذاتية يمكن تعبئته و رفعه على سيرفر
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>ملفات المشروع »</strong></a>
     <br />
     <br />
   </p>
