@@ -22,18 +22,18 @@
 
 في اعلا المستودع س تجد قائمة من البرانشات
 <div align="center">
-    <img src="./show1.png" style="width:100%">
+    <img src="./img/show1.png" style="width:100%">
 </div>
 <br/>
 و لكل برانش يوجد شكل خاص
 <br/>
 <div align="center">
-    <img src="./show2.png" style="width:100%">
+    <img src="./img/show2.png" style="width:100%">
 </div>
 <br/>
 قم بختيار البرانش الخاص بك ثم اتبع خطوات التحميل الخاصة به
 <div align="center">
-    <img src="./show3.png" style="width:100%">
+    <img src="./img/show3.png" style="width:100%">
 </div>
 
 
